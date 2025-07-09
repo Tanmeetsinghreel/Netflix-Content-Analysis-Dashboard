@@ -59,6 +59,5 @@ All transformations were done in **Jupyter Notebook** and the cleaned file was e
 ## 👨‍💻 Author
 
 **Tanmeet Singh Reel**  
-- 📧 tanmeetsingh202@gmail.com  
 
 ---
